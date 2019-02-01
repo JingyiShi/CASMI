@@ -1,2 +1,3 @@
 # CASMI
-CASMI is short for Coverage Adjusted Standardized Mutual Information. This repository includes an R package the provides CASMI-Based Functions.
+CASMI is short for Coverage Adjusted Standardized Mutual Information. This repository includes an R package that provides CASMI-based functions.
+For more information about CASMI, please refer to corresponding papers or contact me at jshi5@uncc.edu.
