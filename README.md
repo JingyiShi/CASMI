@@ -3,7 +3,7 @@ CASMI is short for Coverage Adjusted Standardized Mutual Information. This repos
 For more information about CASMI, please refer to corresponding papers or contact me at jshi@math.msstate.edu.
 
 # The latest R package is now in CRAN! Just search for "CASMI"
-https://cran.r-project.org/web/packages/CASMI/index.html
+https://CRAN.R-project.org/package=CASMI
 
 
 # To cite
